@@ -1,0 +1,1354 @@
+[
+    {
+        "url": "google.com",
+        "traffic": 227673632
+    },
+    {
+        "url": "youtube.com",
+        "traffic": 215690880
+    },
+    {
+        "url": "facebook.com",
+        "traffic": 129658552
+    },
+    {
+        "url": "msn.com",
+        "traffic": 127673904
+    },
+    {
+        "url": "bing.com",
+        "traffic": 104455184
+    },
+    {
+        "url": "amazon.com",
+        "traffic": 88907456
+    },
+    {
+        "url": "yelp.com",
+        "traffic": 80253832
+    },
+    {
+        "url": "twitter.com",
+        "traffic": 80173808
+    },
+    {
+        "url": "yahoo.com",
+        "traffic": 77752808
+    },
+    {
+        "url": "microsoft.com",
+        "traffic": 69484848
+    },
+    {
+        "url": "pinterest.com",
+        "traffic": 66933192
+    },
+    {
+        "url": "buzzfeed.com",
+        "traffic": 64411052
+    },
+    {
+        "url": "answers.com",
+        "traffic": 56847596
+    },
+    {
+        "url": "netflix.com",
+        "traffic": 55058588
+    },
+    {
+        "url": "ebay.com",
+        "traffic": 52004100
+    },
+    {
+        "url": "wikipedia.org",
+        "traffic": 47456480
+    },
+    {
+        "url": "live.com",
+        "traffic": 46889328
+    },
+    {
+        "url": "wikia.com",
+        "traffic": 46740984
+    },
+    {
+        "url": "foxnews.com",
+        "traffic": 40885608
+    },
+    {
+        "url": "paypal.com",
+        "traffic": 38885732
+    },
+    {
+        "url": "wordpress.com",
+        "traffic": 37743496
+    },
+    {
+        "url": "linkedin.com",
+        "traffic": 35342648
+    },
+    {
+        "url": "aol.com",
+        "traffic": 33658620
+    },
+    {
+        "url": "about.com",
+        "traffic": 32664136
+    },
+    {
+        "url": "godaddy.com",
+        "traffic": 30207016
+    },
+    {
+        "url": "blogger.com",
+        "traffic": 29611356
+    },
+    {
+        "url": "adobe.com",
+        "traffic": 28595458
+    },
+    {
+        "url": "urbandictionary.com",
+        "traffic": 28468516
+    },
+    {
+        "url": "monster.com",
+        "traffic": 28226852
+    },
+    {
+        "url": "whitepages.com",
+        "traffic": 27497164
+    },
+    {
+        "url": "bustle.com",
+        "traffic": 25971622
+    },
+    {
+        "url": "blogspot.com",
+        "traffic": 25967194
+    },
+    {
+        "url": "weather.com",
+        "traffic": 25701842
+    },
+    {
+        "url": "quizlet.com",
+        "traffic": 24894982
+    },
+    {
+        "url": "mozilla.org",
+        "traffic": 24117684
+    },
+    {
+        "url": "craigslist.org",
+        "traffic": 23767360
+    },
+    {
+        "url": "legacy.com",
+        "traffic": 23714726
+    },
+    {
+        "url": "comcast.net",
+        "traffic": 23074284
+    },
+    {
+        "url": "nytimes.com",
+        "traffic": 23008302
+    },
+    {
+        "url": "tumblr.com",
+        "traffic": 22106780
+    },
+    {
+        "url": "stackexchange.com",
+        "traffic": 22052656
+    },
+    {
+        "url": "wayfair.com",
+        "traffic": 21856094
+    },
+    {
+        "url": "nydailynews.com",
+        "traffic": 21779476
+    },
+    {
+        "url": "ask.com",
+        "traffic": 21725690
+    },
+    {
+        "url": "walmart.com",
+        "traffic": 21072382
+    },
+    {
+        "url": "wellsfargo.com",
+        "traffic": 19489628
+    },
+    {
+        "url": "usmagazine.com",
+        "traffic": 18811564
+    },
+    {
+        "url": "sbnation.com",
+        "traffic": 18640872
+    },
+    {
+        "url": "vice.com",
+        "traffic": 18448974
+    },
+    {
+        "url": "babycenter.com",
+        "traffic": 17437092
+    },
+    {
+        "url": "goodreads.com",
+        "traffic": 17225078
+    },
+    {
+        "url": "politico.com",
+        "traffic": 17204440
+    },
+    {
+        "url": "go.com",
+        "traffic": 16937156
+    },
+    {
+        "url": "merriam-webster.com",
+        "traffic": 16874478
+    },
+    {
+        "url": "imgur.com",
+        "traffic": 15744354
+    },
+    {
+        "url": "apple.com",
+        "traffic": 15639804
+    },
+    {
+        "url": "glassdoor.com",
+        "traffic": 15473128
+    },
+    {
+        "url": "gizmodo.com",
+        "traffic": 14990968
+    },
+    {
+        "url": "topix.com",
+        "traffic": 14958717
+    },
+    {
+        "url": "instagram.com",
+        "traffic": 14567185
+    },
+    {
+        "url": "chase.com",
+        "traffic": 14513463
+    },
+    {
+        "url": "ranker.com",
+        "traffic": 14372249
+    },
+    {
+        "url": "uproxx.com",
+        "traffic": 14283598
+    },
+    {
+        "url": "shareably.net",
+        "traffic": 14278007
+    },
+    {
+        "url": "vimeo.com",
+        "traffic": 14218465
+    },
+    {
+        "url": "usps.com",
+        "traffic": 14210442
+    },
+    {
+        "url": "theverge.com",
+        "traffic": 13912969
+    },
+    {
+        "url": "rollingstone.com",
+        "traffic": 13709738
+    },
+    {
+        "url": "imdb.com",
+        "traffic": 13460104
+    },
+    {
+        "url": "refinery29.com",
+        "traffic": 13457508
+    },
+    {
+        "url": "deviantart.com",
+        "traffic": 13144539
+    },
+    {
+        "url": "instructables.com",
+        "traffic": 13061256
+    },
+    {
+        "url": "mentalfloss.com",
+        "traffic": 12996747
+    },
+    {
+        "url": "247sports.com",
+        "traffic": 12760165
+    },
+    {
+        "url": "cinemablend.com",
+        "traffic": 12512543
+    },
+    {
+        "url": "people.com",
+        "traffic": 12470347
+    },
+    {
+        "url": "inquisitr.com",
+        "traffic": 12362536
+    },
+    {
+        "url": "forbes.com",
+        "traffic": 12166019
+    },
+    {
+        "url": "thechive.com",
+        "traffic": 12109470
+    },
+    {
+        "url": "city-data.com",
+        "traffic": 11801113
+    },
+    {
+        "url": "thekitchn.com",
+        "traffic": 11790170
+    },
+    {
+        "url": "vox.com",
+        "traffic": 11657232
+    },
+    {
+        "url": "thehill.com",
+        "traffic": 11610776
+    },
+    {
+        "url": "rottentomatoes.com",
+        "traffic": 11406353
+    },
+    {
+        "url": "photobucket.com",
+        "traffic": 11297927
+    },
+    {
+        "url": "nbcsports.com",
+        "traffic": 11271201
+    },
+    {
+        "url": "nj.com",
+        "traffic": 11242733
+    },
+    {
+        "url": "lifehacker.com",
+        "traffic": 11231983
+    },
+    {
+        "url": "tmz.com",
+        "traffic": 11172471
+    },
+    {
+        "url": "mapquest.com",
+        "traffic": 11164175
+    },
+    {
+        "url": "msnbc.com",
+        "traffic": 11133536
+    },
+    {
+        "url": "zillow.com",
+        "traffic": 11068411
+    },
+    {
+        "url": "gfycat.com",
+        "traffic": 10803276
+    },
+    {
+        "url": "dmv.org",
+        "traffic": 10550377
+    },
+    {
+        "url": "giphy.com",
+        "traffic": 10517246
+    },
+    {
+        "url": "mobilelikez.com",
+        "traffic": 10455157
+    },
+    {
+        "url": "thoughtcatalog.com",
+        "traffic": 10116351
+    },
+    {
+        "url": "webmd.com",
+        "traffic": 10092962
+    },
+    {
+        "url": "myrecipes.com",
+        "traffic": 10046015
+    },
+    {
+        "url": "tripadvisor.com",
+        "traffic": 10012285
+    },
+    {
+        "url": "bestbuy.com",
+        "traffic": 9995777
+    },
+    {
+        "url": "moviepilot.com",
+        "traffic": 9992057
+    },
+    {
+        "url": "dailykos.com",
+        "traffic": 9882973
+    },
+    {
+        "url": "salon.com",
+        "traffic": 9867578
+    },
+    {
+        "url": "fandango.com",
+        "traffic": 9838652
+    },
+    {
+        "url": "examiner.com",
+        "traffic": 9829043
+    },
+    {
+        "url": "thepennyhoarder.com",
+        "traffic": 9790906
+    },
+    {
+        "url": "dailycaller.com",
+        "traffic": 9789566
+    },
+    {
+        "url": "americanews.com",
+        "traffic": 9723342
+    },
+    {
+        "url": "independent.co.uk",
+        "traffic": 9704037
+    },
+    {
+        "url": "yourdailydish.com",
+        "traffic": 9626810
+    },
+    {
+        "url": "tickld.com",
+        "traffic": 9533073
+    },
+    {
+        "url": "skype.com",
+        "traffic": 9512082
+    },
+    {
+        "url": "wittyfeed.com",
+        "traffic": 9486128
+    },
+    {
+        "url": "hp.com",
+        "traffic": 9458219
+    },
+    {
+        "url": "rare.us",
+        "traffic": 9436458
+    },
+    {
+        "url": "yellowpages.com",
+        "traffic": 9209732
+    },
+    {
+        "url": "reddit.com",
+        "traffic": 9187314
+    },
+    {
+        "url": "drudgereport.com",
+        "traffic": 9115572
+    },
+    {
+        "url": "nbcnews.com",
+        "traffic": 9086038
+    },
+    {
+        "url": "gawker.com",
+        "traffic": 9064644
+    },
+    {
+        "url": "southwest.com",
+        "traffic": 9030965
+    },
+    {
+        "url": "kohls.com",
+        "traffic": 8960369
+    },
+    {
+        "url": "target.com",
+        "traffic": 8956113
+    },
+    {
+        "url": "theblaze.com",
+        "traffic": 8920656
+    },
+    {
+        "url": "etsy.com",
+        "traffic": 8904351
+    },
+    {
+        "url": "bbb.org",
+        "traffic": 8774718
+    },
+    {
+        "url": "bankofamerica.com",
+        "traffic": 8755346
+    },
+    {
+        "url": "homedepot.com",
+        "traffic": 8636993
+    },
+    {
+        "url": "opposingviews.com",
+        "traffic": 8584296
+    },
+    {
+        "url": "stripe.com",
+        "traffic": 8566192
+    },
+    {
+        "url": "staples.com",
+        "traffic": 8520734
+    },
+    {
+        "url": "faithtap.com",
+        "traffic": 8516528
+    },
+    {
+        "url": "cheatsheet.com",
+        "traffic": 8515381
+    },
+    {
+        "url": "twentytwowords.com",
+        "traffic": 8474458
+    },
+    {
+        "url": "cnet.com",
+        "traffic": 8465308
+    },
+    {
+        "url": "cbssports.com",
+        "traffic": 8321975
+    },
+    {
+        "url": "youngcons.com",
+        "traffic": 8311705
+    },
+    {
+        "url": "lifedaily.com",
+        "traffic": 8288829
+    },
+    {
+        "url": "internetautoguide.com",
+        "traffic": 8197261
+    },
+    {
+        "url": "worldlifestyle.com",
+        "traffic": 8191725
+    },
+    {
+        "url": "stackoverflow.com",
+        "traffic": 8184743
+    },
+    {
+        "url": "booking.com",
+        "traffic": 8176251
+    },
+    {
+        "url": "hellogiggles.com",
+        "traffic": 8132673
+    },
+    {
+        "url": "bloomberg.com",
+        "traffic": 8049723
+    },
+    {
+        "url": "ozy.com",
+        "traffic": 7999867
+    },
+    {
+        "url": "lifebuzz.com",
+        "traffic": 7988698
+    },
+    {
+        "url": "alibaba.com",
+        "traffic": 7982483
+    },
+    {
+        "url": "androidcentral.com",
+        "traffic": 7944676
+    },
+    {
+        "url": "expedia.com",
+        "traffic": 7925762
+    },
+    {
+        "url": "twitch.tv",
+        "traffic": 7832650
+    },
+    {
+        "url": "upworthy.com",
+        "traffic": 7817271
+    },
+    {
+        "url": "fitbit.com",
+        "traffic": 7773684
+    },
+    {
+        "url": "okmagazine.com",
+        "traffic": 7663599
+    },
+    {
+        "url": "timeanddate.com",
+        "traffic": 7617726
+    },
+    {
+        "url": "ups.com",
+        "traffic": 7575542
+    },
+    {
+        "url": "nbc.com",
+        "traffic": 7564984
+    },
+    {
+        "url": "viralands.com",
+        "traffic": 7560754
+    },
+    {
+        "url": "emgn.com",
+        "traffic": 7438552
+    },
+    {
+        "url": "looper.com",
+        "traffic": 7435813
+    },
+    {
+        "url": "distractify.com",
+        "traffic": 7351691
+    },
+    {
+        "url": "cvs.com",
+        "traffic": 7304950
+    },
+    {
+        "url": "newsmax.com",
+        "traffic": 7282082
+    },
+    {
+        "url": "cnbc.com",
+        "traffic": 7254159
+    },
+    {
+        "url": "theonion.com",
+        "traffic": 7228789
+    },
+    {
+        "url": "eonline.com",
+        "traffic": 7208754
+    },
+    {
+        "url": "oregonlive.com",
+        "traffic": 7127488
+    },
+    {
+        "url": "al.com",
+        "traffic": 7102836
+    },
+    {
+        "url": "fidelity.com",
+        "traffic": 7082062
+    },
+    {
+        "url": "americanexpress.com",
+        "traffic": 7058139
+    },
+    {
+        "url": "deadspin.com",
+        "traffic": 7053115
+    },
+    {
+        "url": "dailydot.com",
+        "traffic": 7029488
+    },
+    {
+        "url": "windows.com",
+        "traffic": 7021774
+    },
+    {
+        "url": "radaronline.com",
+        "traffic": 6991527
+    },
+    {
+        "url": "howtogeek.com",
+        "traffic": 6987703
+    },
+    {
+        "url": "mlive.com",
+        "traffic": 6976340
+    },
+    {
+        "url": "potterybarn.com",
+        "traffic": 6941804
+    },
+    {
+        "url": "cbsnews.com",
+        "traffic": 6934964
+    },
+    {
+        "url": "thinkprogress.org",
+        "traffic": 6863287
+    },
+    {
+        "url": "pressroomvip.com",
+        "traffic": 6860465
+    },
+    {
+        "url": "squarespace.com",
+        "traffic": 6834293
+    },
+    {
+        "url": "fedex.com",
+        "traffic": 6821740
+    },
+    {
+        "url": "zimbio.com",
+        "traffic": 6817267
+    },
+    {
+        "url": "spanishdict.com",
+        "traffic": 6810656
+    },
+    {
+        "url": "disney.com",
+        "traffic": 6789486
+    },
+    {
+        "url": "gop.com",
+        "traffic": 6754548
+    },
+    {
+        "url": "shmoop.com",
+        "traffic": 6734447
+    },
+    {
+        "url": "evite.com",
+        "traffic": 6728350
+    },
+    {
+        "url": "athenahealth.com",
+        "traffic": 6707654
+    },
+    {
+        "url": "overstock.com",
+        "traffic": 6682646
+    },
+    {
+        "url": "eater.com",
+        "traffic": 6649734
+    },
+    {
+        "url": "aliexpress.com",
+        "traffic": 6630305
+    },
+    {
+        "url": "macys.com",
+        "traffic": 6580901
+    },
+    {
+        "url": "sears.com",
+        "traffic": 6563389
+    },
+    {
+        "url": "classmates.com",
+        "traffic": 6552686
+    },
+    {
+        "url": "rawstory.com",
+        "traffic": 6552281
+    },
+    {
+        "url": "jcpenney.com",
+        "traffic": 6531745
+    },
+    {
+        "url": "fusion.net",
+        "traffic": 6519888
+    },
+    {
+        "url": "powerinbox.com",
+        "traffic": 6494692
+    },
+    {
+        "url": "jezebel.com",
+        "traffic": 6459925
+    },
+    {
+        "url": "visualstudio.com",
+        "traffic": 6424437
+    },
+    {
+        "url": "nih.gov",
+        "traffic": 6406875
+    },
+    {
+        "url": "dailymail.co.uk",
+        "traffic": 6381681
+    },
+    {
+        "url": "walgreens.com",
+        "traffic": 6378284
+    },
+    {
+        "url": "today.com",
+        "traffic": 6364583
+    },
+    {
+        "url": "blessings.com",
+        "traffic": 6362888
+    },
+    {
+        "url": "cnn.com",
+        "traffic": 6362215
+    },
+    {
+        "url": "creditkarma.com",
+        "traffic": 6332856
+    },
+    {
+        "url": "miamiherald.com",
+        "traffic": 6278108
+    },
+    {
+        "url": "cleveland.com",
+        "traffic": 6152692
+    },
+    {
+        "url": "inspiremore.com",
+        "traffic": 6117225
+    },
+    {
+        "url": "westernjournalism.com",
+        "traffic": 6098757
+    },
+    {
+        "url": "gettyimages.com",
+        "traffic": 6028138
+    },
+    {
+        "url": "wix.com",
+        "traffic": 6002804
+    },
+    {
+        "url": "laudable.com",
+        "traffic": 5888673
+    },
+    {
+        "url": "beenverified.com",
+        "traffic": 5886302
+    },
+    {
+        "url": "carhartt.com",
+        "traffic": 5882707
+    },
+    {
+        "url": "pbs.org",
+        "traffic": 5871983
+    },
+    {
+        "url": "apartmenttherapy.com",
+        "traffic": 5864846
+    },
+    {
+        "url": "seriouseats.com",
+        "traffic": 5842012
+    },
+    {
+        "url": "npr.org",
+        "traffic": 5758719
+    },
+    {
+        "url": "britannica.com",
+        "traffic": 5753147
+    },
+    {
+        "url": "capitalone.com",
+        "traffic": 5750079
+    },
+    {
+        "url": "usaa.com",
+        "traffic": 5717109
+    },
+    {
+        "url": "vine.co",
+        "traffic": 5694935
+    },
+    {
+        "url": "sportingnews.com",
+        "traffic": 5585261
+    },
+    {
+        "url": "macrumors.com",
+        "traffic": 5580481
+    },
+    {
+        "url": "ticketmaster.com",
+        "traffic": 5543999
+    },
+    {
+        "url": "kotaku.com",
+        "traffic": 5537677
+    },
+    {
+        "url": "cabelas.com",
+        "traffic": 5536090
+    },
+    {
+        "url": "magiquiz.com",
+        "traffic": 5522965
+    },
+    {
+        "url": "comicbook.com",
+        "traffic": 5517246
+    },
+    {
+        "url": "thefederalistpapers.org",
+        "traffic": 5512200
+    },
+    {
+        "url": "lg.com",
+        "traffic": 5468550
+    },
+    {
+        "url": "weather.gov",
+        "traffic": 5455467
+    },
+    {
+        "url": "mcafee.com",
+        "traffic": 5449196
+    },
+    {
+        "url": "someecards.com",
+        "traffic": 5442339
+    },
+    {
+        "url": "united.com",
+        "traffic": 5414120
+    },
+    {
+        "url": "costco.com",
+        "traffic": 5401544
+    },
+    {
+        "url": "yuncomputing.com",
+        "traffic": 5383685
+    },
+    {
+        "url": "patheos.com",
+        "traffic": 5347135
+    },
+    {
+        "url": "liveleak.com",
+        "traffic": 5334032
+    },
+    {
+        "url": "stylebistro.com",
+        "traffic": 5318415
+    },
+    {
+        "url": "mediaite.com",
+        "traffic": 5298862
+    },
+    {
+        "url": "allenbwest.com",
+        "traffic": 5296219
+    },
+    {
+        "url": "si.com",
+        "traffic": 5294374
+    },
+    {
+        "url": "lifescript.com",
+        "traffic": 5258108
+    },
+    {
+        "url": "flickr.com",
+        "traffic": 5204732
+    },
+    {
+        "url": "healthgrades.com",
+        "traffic": 5192185
+    },
+    {
+        "url": "yourtango.com",
+        "traffic": 5168213
+    },
+    {
+        "url": "trulia.com",
+        "traffic": 5125210
+    },
+    {
+        "url": "drugs.com",
+        "traffic": 5101916
+    },
+    {
+        "url": "groupon.com",
+        "traffic": 5081712
+    },
+    {
+        "url": "mensfitness.com",
+        "traffic": 5035643
+    },
+    {
+        "url": "chicagotribune.com",
+        "traffic": 4982536
+    },
+    {
+        "url": "ibtimes.co.uk",
+        "traffic": 4910150
+    },
+    {
+        "url": "softonic.com",
+        "traffic": 4909711
+    },
+    {
+        "url": "pagesix.com",
+        "traffic": 4898458
+    },
+    {
+        "url": "theguardian.com",
+        "traffic": 4887395
+    },
+    {
+        "url": "sfgate.com",
+        "traffic": 4883881
+    },
+    {
+        "url": "dummies.com",
+        "traffic": 4883879
+    },
+    {
+        "url": "lowes.com",
+        "traffic": 4862468
+    },
+    {
+        "url": "verizon.com",
+        "traffic": 4818560
+    },
+    {
+        "url": "usnews.com",
+        "traffic": 4817434
+    },
+    {
+        "url": "discover.com",
+        "traffic": 4808390
+    },
+    {
+        "url": "kbb.com",
+        "traffic": 4803946
+    },
+    {
+        "url": "startribune.com",
+        "traffic": 4794260
+    },
+    {
+        "url": "chacha.com",
+        "traffic": 4783645
+    },
+    {
+        "url": "jalopnik.com",
+        "traffic": 4767534
+    },
+    {
+        "url": "gravatar.com",
+        "traffic": 4762022
+    },
+    {
+        "url": "thepoliticalinsider.com",
+        "traffic": 4760374
+    },
+    {
+        "url": "superuser.com",
+        "traffic": 4755655
+    },
+    {
+        "url": "easybib.com",
+        "traffic": 4712843
+    },
+    {
+        "url": "trustpilot.com",
+        "traffic": 4710588
+    },
+    {
+        "url": "jumblejoy.com",
+        "traffic": 4706811
+    },
+    {
+        "url": "ajc.com",
+        "traffic": 4706440
+    },
+    {
+        "url": "pch.com",
+        "traffic": 4691979
+    },
+    {
+        "url": "fame10.com",
+        "traffic": 4672156
+    },
+    {
+        "url": "greatist.com",
+        "traffic": 4670242
+    },
+    {
+        "url": "office.com",
+        "traffic": 4660283
+    },
+    {
+        "url": "hotnewhiphop.com",
+        "traffic": 4656450
+    },
+    {
+        "url": "imore.com",
+        "traffic": 4648919
+    },
+    {
+        "url": "elseweb.com",
+        "traffic": 4624430
+    },
+    {
+        "url": "industrybrains.com",
+        "traffic": 4610121
+    },
+    {
+        "url": "bravotv.com",
+        "traffic": 4578868
+    },
+    {
+        "url": "faithit.com",
+        "traffic": 4576019
+    },
+    {
+        "url": "usa.gov",
+        "traffic": 4556558
+    },
+    {
+        "url": "knowable.com",
+        "traffic": 4531830
+    },
+    {
+        "url": "cafemom.com",
+        "traffic": 4517312
+    },
+    {
+        "url": "allrecipes.com",
+        "traffic": 4516050
+    },
+    {
+        "url": "foodnetwork.com",
+        "traffic": 4507003
+    },
+    {
+        "url": "ca.gov",
+        "traffic": 4502392
+    },
+    {
+        "url": "csmonitor.com",
+        "traffic": 4500585
+    },
+    {
+        "url": "guiltyfix.com",
+        "traffic": 4496168
+    },
+    {
+        "url": "nola.com",
+        "traffic": 4471498
+    },
+    {
+        "url": "allstateagencies.com",
+        "traffic": 4467746
+    },
+    {
+        "url": "mashable.com",
+        "traffic": 4459157
+    },
+    {
+        "url": "fixya.com",
+        "traffic": 4440714
+    },
+    {
+        "url": "latimes.com",
+        "traffic": 4433095
+    },
+    {
+        "url": "brainjet.com",
+        "traffic": 4419550
+    },
+    {
+        "url": "newsbake.com",
+        "traffic": 4405808
+    },
+    {
+        "url": "helzberg.com",
+        "traffic": 4399249
+    },
+    {
+        "url": "bandcamp.com",
+        "traffic": 4374066
+    },
+    {
+        "url": "ebaumsworld.com",
+        "traffic": 4374047
+    },
+    {
+        "url": "123greetings.com",
+        "traffic": 4371011
+    },
+    {
+        "url": "theatlantic.com",
+        "traffic": 4349706
+    },
+    {
+        "url": "tributes.com",
+        "traffic": 4342931
+    },
+    {
+        "url": "snapwidget.com",
+        "traffic": 4333483
+    },
+    {
+        "url": "aarp.org",
+        "traffic": 4333200
+    },
+    {
+        "url": "mailmunch.co",
+        "traffic": 4330867
+    },
+    {
+        "url": "coupons.net",
+        "traffic": 4329701
+    },
+    {
+        "url": "avclub.com",
+        "traffic": 4327354
+    },
+    {
+        "url": "shopping.com",
+        "traffic": 4316788
+    },
+    {
+        "url": "petfinder.com",
+        "traffic": 4308827
+    },
+    {
+        "url": "washingtonexaminer.com",
+        "traffic": 4304533
+    },
+    {
+        "url": "sumome.com",
+        "traffic": 4287769
+    },
+    {
+        "url": "brainfall.com",
+        "traffic": 4287650
+    },
+    {
+        "url": "seattletimes.com",
+        "traffic": 4282910
+    },
+    {
+        "url": "curiyo.com",
+        "traffic": 4277802
+    },
+    {
+        "url": "allmenus.com",
+        "traffic": 4266812
+    },
+    {
+        "url": "techradar.com",
+        "traffic": 4244623
+    },
+    {
+        "url": "stuccu.com",
+        "traffic": 4225023
+    },
+    {
+        "url": "research.net",
+        "traffic": 4217839
+    },
+    {
+        "url": "enotes.com",
+        "traffic": 4213072
+    },
+    {
+        "url": "boreburn.com",
+        "traffic": 4184142
+    },
+    {
+        "url": "dropbox.com",
+        "traffic": 4175269
+    },
+    {
+        "url": "barnesandnoble.com",
+        "traffic": 4169907
+    },
+    {
+        "url": "playboy.com",
+        "traffic": 4147343
+    },
+    {
+        "url": "biglots.com",
+        "traffic": 4139888
+    },
+    {
+        "url": "patient.info",
+        "traffic": 4135493
+    },
+    {
+        "url": "myfitnesspal.com",
+        "traffic": 4119009
+    },
+    {
+        "url": "observer.com",
+        "traffic": 4118888
+    },
+    {
+        "url": "actblue.com",
+        "traffic": 4074201
+    },
+    {
+        "url": "markandgraham.com",
+        "traffic": 4038355
+    },
+    {
+        "url": "turbotax.com",
+        "traffic": 4014373
+    },
+    {
+        "url": "sorel.com",
+        "traffic": 4000963
+    },
+    {
+        "url": "syracuse.com",
+        "traffic": 3988523
+    },
+    {
+        "url": "nextdoor.com",
+        "traffic": 3987445
+    }
+]

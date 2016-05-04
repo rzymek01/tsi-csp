@@ -1,0 +1,1538 @@
+[
+    {
+        "url": "independent.co.uk",
+        "traffic": 12140424
+    },
+    {
+        "url": "buzzfeed.com",
+        "traffic": 10476591
+    },
+    {
+        "url": "wikia.com",
+        "traffic": 8339991
+    },
+    {
+        "url": "answers.com",
+        "traffic": 6219218
+    },
+    {
+        "url": "urbandictionary.com",
+        "traffic": 4788094
+    },
+    {
+        "url": "stackexchange.com",
+        "traffic": 4474176
+    },
+    {
+        "url": "wittyfeed.com",
+        "traffic": 3846086
+    },
+    {
+        "url": "standard.co.uk",
+        "traffic": 3747287
+    },
+    {
+        "url": "unilad.co.uk",
+        "traffic": 3555703
+    },
+    {
+        "url": "nationalrail.co.uk",
+        "traffic": 3541504
+    },
+    {
+        "url": "viralands.com",
+        "traffic": 3228996
+    },
+    {
+        "url": "patient.info",
+        "traffic": 2983473
+    },
+    {
+        "url": "yelp.co.uk",
+        "traffic": 2957511
+    },
+    {
+        "url": "entertainmentdaily.co.uk",
+        "traffic": 2957028
+    },
+    {
+        "url": "cnn.com",
+        "traffic": 2792546
+    },
+    {
+        "url": "ibtimes.co.uk",
+        "traffic": 2762043
+    },
+    {
+        "url": "bustle.com",
+        "traffic": 2708353
+    },
+    {
+        "url": "mobilelikez.com",
+        "traffic": 2705717
+    },
+    {
+        "url": "goodreads.com",
+        "traffic": 2650122
+    },
+    {
+        "url": "techradar.com",
+        "traffic": 2634487
+    },
+    {
+        "url": "vice.com",
+        "traffic": 2632581
+    },
+    {
+        "url": "90min.com",
+        "traffic": 2545908
+    },
+    {
+        "url": "imgur.com",
+        "traffic": 2302005
+    },
+    {
+        "url": "babycenter.com",
+        "traffic": 2216402
+    },
+    {
+        "url": "roasted.com",
+        "traffic": 2182508
+    },
+    {
+        "url": "sportinglife.com",
+        "traffic": 2157758
+    },
+    {
+        "url": "shareably.net",
+        "traffic": 2144935
+    },
+    {
+        "url": "dailyfeed.co.uk",
+        "traffic": 2047457
+    },
+    {
+        "url": "instructables.com",
+        "traffic": 1988987
+    },
+    {
+        "url": "rottentomatoes.com",
+        "traffic": 1914234
+    },
+    {
+        "url": "cinemablend.com",
+        "traffic": 1874955
+    },
+    {
+        "url": "opentable.co.uk",
+        "traffic": 1822019
+    },
+    {
+        "url": "theverge.com",
+        "traffic": 1749433
+    },
+    {
+        "url": "gizmodo.com",
+        "traffic": 1736344
+    },
+    {
+        "url": "giphy.com",
+        "traffic": 1708337
+    },
+    {
+        "url": "stackoverflow.com",
+        "traffic": 1693581
+    },
+    {
+        "url": "deviantart.com",
+        "traffic": 1693278
+    },
+    {
+        "url": "photobucket.com",
+        "traffic": 1582392
+    },
+    {
+        "url": "howtogeek.com",
+        "traffic": 1553997
+    },
+    {
+        "url": "lifehacker.com",
+        "traffic": 1509730
+    },
+    {
+        "url": "wetransfer.com",
+        "traffic": 1503772
+    },
+    {
+        "url": "thekitchn.com",
+        "traffic": 1457510
+    },
+    {
+        "url": "honestjohn.co.uk",
+        "traffic": 1421412
+    },
+    {
+        "url": "gfycat.com",
+        "traffic": 1417652
+    },
+    {
+        "url": "androidcentral.com",
+        "traffic": 1415263
+    },
+    {
+        "url": "thoughtcatalog.com",
+        "traffic": 1370722
+    },
+    {
+        "url": "tickld.com",
+        "traffic": 1362084
+    },
+    {
+        "url": "merriam-webster.com",
+        "traffic": 1314463
+    },
+    {
+        "url": "tomshardware.co.uk",
+        "traffic": 1296559
+    },
+    {
+        "url": "skiddle.com",
+        "traffic": 1281591
+    },
+    {
+        "url": "autoexpress.co.uk",
+        "traffic": 1216006
+    },
+    {
+        "url": "pretty52.com",
+        "traffic": 1215013
+    },
+    {
+        "url": "heraldscotland.com",
+        "traffic": 1206150
+    },
+    {
+        "url": "ranker.com",
+        "traffic": 1169857
+    },
+    {
+        "url": "rollingstone.com",
+        "traffic": 1153858
+    },
+    {
+        "url": "distractify.com",
+        "traffic": 1143633
+    },
+    {
+        "url": "boreburn.com",
+        "traffic": 1119336
+    },
+    {
+        "url": "superuser.com",
+        "traffic": 1102998
+    },
+    {
+        "url": "yelp.com",
+        "traffic": 1062253
+    },
+    {
+        "url": "topix.com",
+        "traffic": 1038259
+    },
+    {
+        "url": "mensfitness.com",
+        "traffic": 998216
+    },
+    {
+        "url": "usmagazine.com",
+        "traffic": 996802
+    },
+    {
+        "url": "moviepilot.com",
+        "traffic": 995223
+    },
+    {
+        "url": "uberhavoc.com",
+        "traffic": 978894
+    },
+    {
+        "url": "macrumors.com",
+        "traffic": 963822
+    },
+    {
+        "url": "imore.com",
+        "traffic": 960864
+    },
+    {
+        "url": "dummies.com",
+        "traffic": 937218
+    },
+    {
+        "url": "economist.com",
+        "traffic": 933876
+    },
+    {
+        "url": "whatculture.com",
+        "traffic": 930315
+    },
+    {
+        "url": "upworthy.com",
+        "traffic": 928389
+    },
+    {
+        "url": "liveleak.com",
+        "traffic": 894713
+    },
+    {
+        "url": "cityam.com",
+        "traffic": 876113
+    },
+    {
+        "url": "thenorthernecho.co.uk",
+        "traffic": 876037
+    },
+    {
+        "url": "lifebuzz.com",
+        "traffic": 858195
+    },
+    {
+        "url": "elseweb.com",
+        "traffic": 851628
+    },
+    {
+        "url": "eveningtimes.co.uk",
+        "traffic": 839189
+    },
+    {
+        "url": "hellogiggles.com",
+        "traffic": 792851
+    },
+    {
+        "url": "nydailynews.com",
+        "traffic": 787707
+    },
+    {
+        "url": "thechive.com",
+        "traffic": 784506
+    },
+    {
+        "url": "bandcamp.com",
+        "traffic": 776158
+    },
+    {
+        "url": "yourtango.com",
+        "traffic": 775090
+    },
+    {
+        "url": "squawka.com",
+        "traffic": 773214
+    },
+    {
+        "url": "radaronline.com",
+        "traffic": 764153
+    },
+    {
+        "url": "thetelegraphandargus.co.uk",
+        "traffic": 755556
+    },
+    {
+        "url": "kotaku.com",
+        "traffic": 754721
+    },
+    {
+        "url": "myrecipes.com",
+        "traffic": 753903
+    },
+    {
+        "url": "carbuyer.co.uk",
+        "traffic": 747334
+    },
+    {
+        "url": "theweek.co.uk",
+        "traffic": 745560
+    },
+    {
+        "url": "people.com",
+        "traffic": 742091
+    },
+    {
+        "url": "dailyecho.co.uk",
+        "traffic": 740875
+    },
+    {
+        "url": "comicbook.com",
+        "traffic": 723075
+    },
+    {
+        "url": "britannica.com",
+        "traffic": 713274
+    },
+    {
+        "url": "realclear.com",
+        "traffic": 703876
+    },
+    {
+        "url": "fixya.com",
+        "traffic": 703017
+    },
+    {
+        "url": "vox.com",
+        "traffic": 702671
+    },
+    {
+        "url": "pressroomvip.com",
+        "traffic": 702106
+    },
+    {
+        "url": "medicalnewstoday.com",
+        "traffic": 682850
+    },
+    {
+        "url": "greatist.com",
+        "traffic": 677665
+    },
+    {
+        "url": "pinknews.co.uk",
+        "traffic": 659005
+    },
+    {
+        "url": "inquisitr.com",
+        "traffic": 656918
+    },
+    {
+        "url": "lancashiretelegraph.co.uk",
+        "traffic": 656741
+    },
+    {
+        "url": "bournemouthecho.co.uk",
+        "traffic": 653560
+    },
+    {
+        "url": "viewmixed.com",
+        "traffic": 653285
+    },
+    {
+        "url": "zimbio.com",
+        "traffic": 649954
+    },
+    {
+        "url": "dailycaller.com",
+        "traffic": 646818
+    },
+    {
+        "url": "businessdictionary.com",
+        "traffic": 632814
+    },
+    {
+        "url": "twentytwowords.com",
+        "traffic": 627695
+    },
+    {
+        "url": "examiner.com",
+        "traffic": 622982
+    },
+    {
+        "url": "apartmenttherapy.com",
+        "traffic": 621259
+    },
+    {
+        "url": "edp24.co.uk",
+        "traffic": 620734
+    },
+    {
+        "url": "londonist.com",
+        "traffic": 616940
+    },
+    {
+        "url": "looper.com",
+        "traffic": 614254
+    },
+    {
+        "url": "thesportsmash.co.uk",
+        "traffic": 612516
+    },
+    {
+        "url": "theboltonnews.co.uk",
+        "traffic": 608038
+    },
+    {
+        "url": "sidereel.com",
+        "traffic": 606288
+    },
+    {
+        "url": "indiegogo.com",
+        "traffic": 601386
+    },
+    {
+        "url": "muscleandfitness.com",
+        "traffic": 596486
+    },
+    {
+        "url": "experienceproject.com",
+        "traffic": 594131
+    },
+    {
+        "url": "ask.fm",
+        "traffic": 593887
+    },
+    {
+        "url": "filehippo.com",
+        "traffic": 593717
+    },
+    {
+        "url": "houzz.co.uk",
+        "traffic": 575791
+    },
+    {
+        "url": "mmafighting.com",
+        "traffic": 572228
+    },
+    {
+        "url": "newsshopper.co.uk",
+        "traffic": 572185
+    },
+    {
+        "url": "laudable.com",
+        "traffic": 559602
+    },
+    {
+        "url": "theargus.co.uk",
+        "traffic": 559159
+    },
+    {
+        "url": "refinery29.com",
+        "traffic": 554189
+    },
+    {
+        "url": "pcgamer.com",
+        "traffic": 546132
+    },
+    {
+        "url": "faithtap.com",
+        "traffic": 544336
+    },
+    {
+        "url": "eatliveglow.com",
+        "traffic": 539577
+    },
+    {
+        "url": "yorkpress.co.uk",
+        "traffic": 536854
+    },
+    {
+        "url": "shmoop.com",
+        "traffic": 531167
+    },
+    {
+        "url": "uproxx.com",
+        "traffic": 530499
+    },
+    {
+        "url": "quizlet.com",
+        "traffic": 529361
+    },
+    {
+        "url": "polygon.com",
+        "traffic": 523393
+    },
+    {
+        "url": "jezebel.com",
+        "traffic": 522331
+    },
+    {
+        "url": "inspiremore.com",
+        "traffic": 520454
+    },
+    {
+        "url": "seriouseats.com",
+        "traffic": 512839
+    },
+    {
+        "url": "knowable.com",
+        "traffic": 512347
+    },
+    {
+        "url": "punditarena.com",
+        "traffic": 510972
+    },
+    {
+        "url": "flightstats.com",
+        "traffic": 495615
+    },
+    {
+        "url": "someecards.com",
+        "traffic": 490671
+    },
+    {
+        "url": "gawker.com",
+        "traffic": 486098
+    },
+    {
+        "url": "avclub.com",
+        "traffic": 484615
+    },
+    {
+        "url": "macmillandictionary.com",
+        "traffic": 483791
+    },
+    {
+        "url": "thepopjar.com",
+        "traffic": 483398
+    },
+    {
+        "url": "salon.com",
+        "traffic": 475110
+    },
+    {
+        "url": "sbnation.com",
+        "traffic": 474632
+    },
+    {
+        "url": "allmusic.com",
+        "traffic": 472847
+    },
+    {
+        "url": "echo-news.co.uk",
+        "traffic": 470523
+    },
+    {
+        "url": "knowyourmeme.com",
+        "traffic": 468578
+    },
+    {
+        "url": "expertreviews.co.uk",
+        "traffic": 467478
+    },
+    {
+        "url": "plays.tv",
+        "traffic": 466821
+    },
+    {
+        "url": "southwalesargus.co.uk",
+        "traffic": 466252
+    },
+    {
+        "url": "termdates.co.uk",
+        "traffic": 461751
+    },
+    {
+        "url": "curejoy.com",
+        "traffic": 460594
+    },
+    {
+        "url": "9to5mac.com",
+        "traffic": 453394
+    },
+    {
+        "url": "nameberry.com",
+        "traffic": 447757
+    },
+    {
+        "url": "vitalfootball.co.uk",
+        "traffic": 445771
+    },
+    {
+        "url": "dorkly.com",
+        "traffic": 445712
+    },
+    {
+        "url": "london24.com",
+        "traffic": 445123
+    },
+    {
+        "url": "encyclopedia.com",
+        "traffic": 440317
+    },
+    {
+        "url": "mosaic5.com",
+        "traffic": 435725
+    },
+    {
+        "url": "techtimes.com",
+        "traffic": 434826
+    },
+    {
+        "url": "scribd.com",
+        "traffic": 432737
+    },
+    {
+        "url": "thenextweb.com",
+        "traffic": 432435
+    },
+    {
+        "url": "pitchfork.com",
+        "traffic": 432059
+    },
+    {
+        "url": "collegehumor.com",
+        "traffic": 423660
+    },
+    {
+        "url": "horoscope.com",
+        "traffic": 420986
+    },
+    {
+        "url": "windowscentral.com",
+        "traffic": 420814
+    },
+    {
+        "url": "oxfordmail.co.uk",
+        "traffic": 411826
+    },
+    {
+        "url": "dailydot.com",
+        "traffic": 405590
+    },
+    {
+        "url": "alphr.com",
+        "traffic": 404119
+    },
+    {
+        "url": "spanishdict.com",
+        "traffic": 403786
+    },
+    {
+        "url": "unrealitytv.co.uk",
+        "traffic": 394211
+    },
+    {
+        "url": "matadornetwork.com",
+        "traffic": 391589
+    },
+    {
+        "url": "break.com",
+        "traffic": 389592
+    },
+    {
+        "url": "kissfmuk.com",
+        "traffic": 388484
+    },
+    {
+        "url": "blessings.com",
+        "traffic": 385732
+    },
+    {
+        "url": "stylebistro.com",
+        "traffic": 383301
+    },
+    {
+        "url": "flightaware.com",
+        "traffic": 380810
+    },
+    {
+        "url": "wanderingpioneer.com",
+        "traffic": 380572
+    },
+    {
+        "url": "tmz.com",
+        "traffic": 380136
+    },
+    {
+        "url": "jumblejoy.com",
+        "traffic": 379563
+    },
+    {
+        "url": "gurl.com",
+        "traffic": 378222
+    },
+    {
+        "url": "ioffer.com",
+        "traffic": 372949
+    },
+    {
+        "url": "entitledto.co.uk",
+        "traffic": 372122
+    },
+    {
+        "url": "brobible.com",
+        "traffic": 369008
+    },
+    {
+        "url": "bjpenn.com",
+        "traffic": 368493
+    },
+    {
+        "url": "sciencealert.com",
+        "traffic": 367834
+    },
+    {
+        "url": "boredbug.com",
+        "traffic": 367372
+    },
+    {
+        "url": "twitch.tv",
+        "traffic": 364567
+    },
+    {
+        "url": "wizzed.com",
+        "traffic": 363778
+    },
+    {
+        "url": "myjobscotland.gov.uk",
+        "traffic": 362467
+    },
+    {
+        "url": "familyshare.com",
+        "traffic": 360371
+    },
+    {
+        "url": "theonion.com",
+        "traffic": 358610
+    },
+    {
+        "url": "usuncut.com",
+        "traffic": 358487
+    },
+    {
+        "url": "thecalculatorsite.com",
+        "traffic": 356180
+    },
+    {
+        "url": "straightdope.com",
+        "traffic": 354537
+    },
+    {
+        "url": "entimports.com",
+        "traffic": 353079
+    },
+    {
+        "url": "markedbyteachers.com",
+        "traffic": 351930
+    },
+    {
+        "url": "thedebrief.co.uk",
+        "traffic": 350797
+    },
+    {
+        "url": "ovguide.com",
+        "traffic": 350578
+    },
+    {
+        "url": "knowyourmobile.com",
+        "traffic": 349545
+    },
+    {
+        "url": "hotnewhiphop.com",
+        "traffic": 342930
+    },
+    {
+        "url": "getrevising.co.uk",
+        "traffic": 338437
+    },
+    {
+        "url": "good.is",
+        "traffic": 337996
+    },
+    {
+        "url": "mommypage.com",
+        "traffic": 333941
+    },
+    {
+        "url": "infoplease.com",
+        "traffic": 333614
+    },
+    {
+        "url": "geektown.co.uk",
+        "traffic": 332252
+    },
+    {
+        "url": "jalopnik.com",
+        "traffic": 331219
+    },
+    {
+        "url": "androidauthority.com",
+        "traffic": 328955
+    },
+    {
+        "url": "mapsofworld.com",
+        "traffic": 326117
+    },
+    {
+        "url": "iannounce.co.uk",
+        "traffic": 325055
+    },
+    {
+        "url": "askubuntu.com",
+        "traffic": 324890
+    },
+    {
+        "url": "eonline.com",
+        "traffic": 319356
+    },
+    {
+        "url": "cnbc.com",
+        "traffic": 316787
+    },
+    {
+        "url": "irishcentral.com",
+        "traffic": 315569
+    },
+    {
+        "url": "samsung.com",
+        "traffic": 312882
+    },
+    {
+        "url": "ebaumsworld.com",
+        "traffic": 311423
+    },
+    {
+        "url": "miamiherald.com",
+        "traffic": 309589
+    },
+    {
+        "url": "cheatsheet.com",
+        "traffic": 308555
+    },
+    {
+        "url": "mmamania.com",
+        "traffic": 308335
+    },
+    {
+        "url": "denofgeek.com",
+        "traffic": 306962
+    },
+    {
+        "url": "enotes.com",
+        "traffic": 306797
+    },
+    {
+        "url": "politico.com",
+        "traffic": 304964
+    },
+    {
+        "url": "treato.com",
+        "traffic": 304799
+    },
+    {
+        "url": "southernrailway.com",
+        "traffic": 303527
+    },
+    {
+        "url": "sciencedaily.com",
+        "traffic": 303401
+    },
+    {
+        "url": "swindonadvertiser.co.uk",
+        "traffic": 302936
+    },
+    {
+        "url": "imagevenue.com",
+        "traffic": 299896
+    },
+    {
+        "url": "thedailymash.co.uk",
+        "traffic": 299689
+    },
+    {
+        "url": "utorrent.com",
+        "traffic": 299470
+    },
+    {
+        "url": "draxe.com",
+        "traffic": 297364
+    },
+    {
+        "url": "nx2.com",
+        "traffic": 296381
+    },
+    {
+        "url": "fodors.com",
+        "traffic": 295345
+    },
+    {
+        "url": "mnn.com",
+        "traffic": 294344
+    },
+    {
+        "url": "astrology.com",
+        "traffic": 293390
+    },
+    {
+        "url": "pastemagazine.com",
+        "traffic": 293339
+    },
+    {
+        "url": "wn.com",
+        "traffic": 292072
+    },
+    {
+        "url": "smosh.com",
+        "traffic": 291403
+    },
+    {
+        "url": "attn.com",
+        "traffic": 289884
+    },
+    {
+        "url": "eadt.co.uk",
+        "traffic": 289130
+    },
+    {
+        "url": "worcesternews.co.uk",
+        "traffic": 281203
+    },
+    {
+        "url": "s1homes.com",
+        "traffic": 278985
+    },
+    {
+        "url": "dezeen.com",
+        "traffic": 278890
+    },
+    {
+        "url": "4shared.com",
+        "traffic": 276312
+    },
+    {
+        "url": "crosswordtracker.com",
+        "traffic": 275450
+    },
+    {
+        "url": "patheos.com",
+        "traffic": 274399
+    },
+    {
+        "url": "cheezburger.com",
+        "traffic": 273215
+    },
+    {
+        "url": "footballfancast.com",
+        "traffic": 271969
+    },
+    {
+        "url": "zap2it.com",
+        "traffic": 271729
+    },
+    {
+        "url": "comicbookresources.com",
+        "traffic": 268690
+    },
+    {
+        "url": "opposingviews.com",
+        "traffic": 266750
+    },
+    {
+        "url": "serverfault.com",
+        "traffic": 266524
+    },
+    {
+        "url": "comicbookmovie.com",
+        "traffic": 266241
+    },
+    {
+        "url": "rawstory.com",
+        "traffic": 265664
+    },
+    {
+        "url": "s1jobs.com",
+        "traffic": 260985
+    },
+    {
+        "url": "warpedspeed.com",
+        "traffic": 260518
+    },
+    {
+        "url": "bloodyelbow.com",
+        "traffic": 258765
+    },
+    {
+        "url": "warringtonguardian.co.uk",
+        "traffic": 258061
+    },
+    {
+        "url": "absoluteradio.co.uk",
+        "traffic": 257871
+    },
+    {
+        "url": "creativebloq.com",
+        "traffic": 256275
+    },
+    {
+        "url": "dailykos.com",
+        "traffic": 255323
+    },
+    {
+        "url": "trello.com",
+        "traffic": 255312
+    },
+    {
+        "url": "factmag.com",
+        "traffic": 253193
+    },
+    {
+        "url": "songlyrics.com",
+        "traffic": 252651
+    },
+    {
+        "url": "bucksfreepress.co.uk",
+        "traffic": 251692
+    },
+    {
+        "url": "playboy.com",
+        "traffic": 251501
+    },
+    {
+        "url": "carthrottle.com",
+        "traffic": 250606
+    },
+    {
+        "url": "fashionbeans.com",
+        "traffic": 249486
+    },
+    {
+        "url": "city-data.com",
+        "traffic": 249362
+    },
+    {
+        "url": "bravotv.com",
+        "traffic": 249310
+    },
+    {
+        "url": "whitepages.com",
+        "traffic": 247866
+    },
+    {
+        "url": "gosocial.co",
+        "traffic": 246886
+    },
+    {
+        "url": "gazette-news.co.uk",
+        "traffic": 246355
+    },
+    {
+        "url": "enjin.com",
+        "traffic": 246200
+    },
+    {
+        "url": "jobdiagnosis.com",
+        "traffic": 245940
+    },
+    {
+        "url": "phys.org",
+        "traffic": 245865
+    },
+    {
+        "url": "kilburntimes.co.uk",
+        "traffic": 245156
+    },
+    {
+        "url": "zestvip.com",
+        "traffic": 244304
+    },
+    {
+        "url": "timeout.com",
+        "traffic": 243243
+    },
+    {
+        "url": "tinypic.com",
+        "traffic": 243009
+    },
+    {
+        "url": "hongkiat.com",
+        "traffic": 240988
+    },
+    {
+        "url": "nexusmods.com",
+        "traffic": 233169
+    },
+    {
+        "url": "alternet.org",
+        "traffic": 231500
+    },
+    {
+        "url": "eatingwell.com",
+        "traffic": 230501
+    },
+    {
+        "url": "petapixel.com",
+        "traffic": 229438
+    },
+    {
+        "url": "dorsetecho.co.uk",
+        "traffic": 229247
+    },
+    {
+        "url": "gizmodo.co.uk",
+        "traffic": 227816
+    },
+    {
+        "url": "msnbc.com",
+        "traffic": 226833
+    },
+    {
+        "url": "observer.com",
+        "traffic": 226621
+    },
+    {
+        "url": "tagged.com",
+        "traffic": 226385
+    },
+    {
+        "url": "fusion.net",
+        "traffic": 225744
+    },
+    {
+        "url": "quizyourfriends.com",
+        "traffic": 225499
+    },
+    {
+        "url": "enstarz.com",
+        "traffic": 223565
+    },
+    {
+        "url": "smithsonianmag.com",
+        "traffic": 223249
+    },
+    {
+        "url": "musicradar.com",
+        "traffic": 222155
+    },
+    {
+        "url": "tunein.com",
+        "traffic": 221495
+    },
+    {
+        "url": "fitpregnancy.com",
+        "traffic": 220251
+    },
+    {
+        "url": "high50.com",
+        "traffic": 218535
+    },
+    {
+        "url": "washingtonpost.com",
+        "traffic": 217476
+    },
+    {
+        "url": "movieinsider.com",
+        "traffic": 217036
+    },
+    {
+        "url": "planetminecraft.com",
+        "traffic": 216413
+    },
+    {
+        "url": "refinery29.uk",
+        "traffic": 216000
+    },
+    {
+        "url": "motorsport.com",
+        "traffic": 214377
+    },
+    {
+        "url": "yuku.com",
+        "traffic": 212790
+    },
+    {
+        "url": "artofmanliness.com",
+        "traffic": 209233
+    },
+    {
+        "url": "romfordrecorder.co.uk",
+        "traffic": 207995
+    },
+    {
+        "url": "yourlocalguardian.co.uk",
+        "traffic": 207240
+    },
+    {
+        "url": "hitfix.com",
+        "traffic": 205438
+    },
+    {
+        "url": "nbcnews.com",
+        "traffic": 205091
+    },
+    {
+        "url": "womenfreebies.co.uk",
+        "traffic": 202090
+    },
+    {
+        "url": "familyfriendpoems.com",
+        "traffic": 201068
+    },
+    {
+        "url": "techspot.com",
+        "traffic": 201023
+    },
+    {
+        "url": "ipswichstar.co.uk",
+        "traffic": 198516
+    },
+    {
+        "url": "watfordobserver.co.uk",
+        "traffic": 198311
+    },
+    {
+        "url": "todayifoundout.com",
+        "traffic": 198107
+    },
+    {
+        "url": "boingboing.net",
+        "traffic": 197899
+    },
+    {
+        "url": "queerty.com",
+        "traffic": 197662
+    },
+    {
+        "url": "oprah.com",
+        "traffic": 196286
+    },
+    {
+        "url": "americancolumn.com",
+        "traffic": 195924
+    },
+    {
+        "url": "thedrum.com",
+        "traffic": 195304
+    },
+    {
+        "url": "songmeanings.com",
+        "traffic": 194602
+    },
+    {
+        "url": "tvfanatic.com",
+        "traffic": 194122
+    },
+    {
+        "url": "latest-hairstyles.com",
+        "traffic": 193180
+    },
+    {
+        "url": "news-medical.net",
+        "traffic": 192493
+    },
+    {
+        "url": "wildtangent.com",
+        "traffic": 190299
+    },
+    {
+        "url": "gradesaver.com",
+        "traffic": 190249
+    },
+    {
+        "url": "sheffield.gov.uk",
+        "traffic": 188945
+    },
+    {
+        "url": "thehollywoodgossip.com",
+        "traffic": 186807
+    },
+    {
+        "url": "mademan.com",
+        "traffic": 186725
+    },
+    {
+        "url": "listal.com",
+        "traffic": 186568
+    },
+    {
+        "url": "campaignlive.co.uk",
+        "traffic": 186145
+    },
+    {
+        "url": "popsci.com",
+        "traffic": 185015
+    },
+    {
+        "url": "justtamilsongs.com",
+        "traffic": 184252
+    },
+    {
+        "url": "chacha.com",
+        "traffic": 183191
+    },
+    {
+        "url": "zonable.com",
+        "traffic": 183104
+    },
+    {
+        "url": "computerworld.com",
+        "traffic": 181925
+    },
+    {
+        "url": "wikidot.com",
+        "traffic": 181138
+    },
+    {
+        "url": "tunefind.com",
+        "traffic": 180286
+    },
+    {
+        "url": "findagrave.com",
+        "traffic": 180269
+    },
+    {
+        "url": "fame10.com",
+        "traffic": 178781
+    },
+    {
+        "url": "romper.com",
+        "traffic": 178675
+    },
+    {
+        "url": "croydonguardian.co.uk",
+        "traffic": 178643
+    },
+    {
+        "url": "fragrantica.com",
+        "traffic": 178539
+    },
+    {
+        "url": "deadspin.com",
+        "traffic": 178383
+    },
+    {
+        "url": "eveningnews24.co.uk",
+        "traffic": 178327
+    },
+    {
+        "url": "treehugger.com",
+        "traffic": 178201
+    },
+    {
+        "url": "sneakernews.com",
+        "traffic": 178035
+    },
+    {
+        "url": "hercampus.com",
+        "traffic": 177019
+    },
+    {
+        "url": "zenfolio.com",
+        "traffic": 176856
+    },
+    {
+        "url": "wirralglobe.co.uk",
+        "traffic": 175995
+    },
+    {
+        "url": "cagesideseats.com",
+        "traffic": 174776
+    },
+    {
+        "url": "8tracks.com",
+        "traffic": 174662
+    },
+    {
+        "url": "thewebtrovert.com",
+        "traffic": 174484
+    },
+    {
+        "url": "1stdibs.com",
+        "traffic": 174095
+    },
+    {
+        "url": "majorleaguegaming.com",
+        "traffic": 173331
+    },
+    {
+        "url": "thegameraccess.com",
+        "traffic": 172763
+    },
+    {
+        "url": "boardgamegeek.com",
+        "traffic": 172128
+    },
+    {
+        "url": "escapistmagazine.com",
+        "traffic": 172060
+    },
+    {
+        "url": "dailysuperheroes.com",
+        "traffic": 171535
+    },
+    {
+        "url": "fansided.com",
+        "traffic": 171155
+    },
+    {
+        "url": "herefordtimes.com",
+        "traffic": 169232
+    },
+    {
+        "url": "kinja.com",
+        "traffic": 169232
+    },
+    {
+        "url": "pcgamesn.com",
+        "traffic": 168923
+    },
+    {
+        "url": "almanac.com",
+        "traffic": 167097
+    },
+    {
+        "url": "thehill.com",
+        "traffic": 165285
+    },
+    {
+        "url": "likesgag.com",
+        "traffic": 163629
+    },
+    {
+        "url": "inkedmag.com",
+        "traffic": 163092
+    },
+    {
+        "url": "digitalcameraworld.com",
+        "traffic": 162711
+    },
+    {
+        "url": "days.to",
+        "traffic": 161601
+    },
+    {
+        "url": "nbcsports.com",
+        "traffic": 161485
+    },
+    {
+        "url": "zerohedge.com",
+        "traffic": 161251
+    },
+    {
+        "url": "desitvbox.me",
+        "traffic": 161211
+    },
+    {
+        "url": "superdrug.com",
+        "traffic": 160919
+    },
+    {
+        "url": "wildtangent.co.uk",
+        "traffic": 160867
+    },
+    {
+        "url": "theberry.com",
+        "traffic": 160824
+    },
+    {
+        "url": "worthpoint.com",
+        "traffic": 160656
+    },
+    {
+        "url": "paulaschoice.com",
+        "traffic": 159436
+    },
+    {
+        "url": "twicsy.com",
+        "traffic": 158829
+    },
+    {
+        "url": "blabbermouth.net",
+        "traffic": 158517
+    },
+    {
+        "url": "activebeat.com",
+        "traffic": 158117
+    },
+    {
+        "url": "themarysue.com",
+        "traffic": 157475
+    },
+    {
+        "url": "chillkick.com",
+        "traffic": 157468
+    }
+]
